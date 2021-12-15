@@ -1,0 +1,12 @@
+.judul {
+    font-size:40px;
+    color:black;
+}
+.register {
+    font-size:10px;
+    color:black;
+}
+[type="button"] {
+    color:red;
+    font-size: large;
+}
